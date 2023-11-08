@@ -1,0 +1,12 @@
+2023-10-26 20:38:19.215 [info] 
+
+
+
+
+2023-10-26 20:38:19.273 [info] Extension host agent started.
+2023-10-26 20:38:19.514 [info] Deleted uninstalled extension from disk eamodio.gitlens /home/devbenitez/.vscode-server/extensions/eamodio.gitlens-14.4.0
+2023-10-26 20:38:19.834 [info] [127.0.0.1][41b25726][ManagementConnection] New connection established.
+2023-10-26 20:38:19.965 [info] [127.0.0.1][5f336ce3][ExtensionHostConnection] New connection established.
+2023-10-26 20:38:20.083 [info] [127.0.0.1][5f336ce3][ExtensionHostConnection] <586> Launched Extension Host Process.
+2023-10-26 20:39:16.026 [info] [127.0.0.1][41b25726][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-10-26 20:39:16.211 [info] [127.0.0.1][5f336ce3][ExtensionHostConnection] <586> Extension Host Process exited with code: 0, signal: null.

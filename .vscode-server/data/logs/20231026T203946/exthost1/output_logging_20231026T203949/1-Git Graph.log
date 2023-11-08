@@ -1,0 +1,9 @@
+[2023-10-26 20:39:49.256] Starting Git Graph ...
+[2023-10-26 20:39:49.409] Using git (version: 2.34.1)
+[2023-10-26 20:39:49.438] Started Git Graph - Ready to use!
+[2023-10-26 20:39:49.439] Searching workspace for new repos ...
+[2023-10-26 20:39:49.446] > git rev-parse --show-toplevel
+[2023-10-26 20:39:49.459] Successfully set Visual Studio Code Context "git-graph:codiconsSupported" to "true"
+[2023-10-26 20:39:49.537] Added new repo: /home/devbenitez/sitio_web_3/kodemia-github-30js
+[2023-10-26 20:39:49.549] Completed searching workspace for new repos
+[2023-10-26 20:39:49.550] Showing "Git Graph" Status Bar Item

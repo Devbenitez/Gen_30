@@ -1,0 +1,19 @@
+2023-10-30 20:41:27.405 [info] 
+
+
+
+
+2023-10-30 20:41:27.458 [info] Extension host agent started.
+2023-10-30 20:41:27.687 [info] [127.0.0.1][f426647d][ManagementConnection] New connection established.
+2023-10-30 20:41:28.706 [info] [127.0.0.1][d4eebcff][ExtensionHostConnection] New connection established.
+2023-10-30 20:41:28.762 [info] [127.0.0.1][d4eebcff][ExtensionHostConnection] <4470> Launched Extension Host Process.
+2023-10-30 21:30:18.365 [info] [127.0.0.1][d4eebcff][ExtensionHostConnection] <4470> [0mGET /favicon.ico [33m404[0m 10.020 ms - 150[0m
+
+2023-10-31 18:34:48.914 [info] [127.0.0.1][f426647d][ManagementConnection] The client has reconnected.
+2023-10-31 18:34:49.934 [info] [127.0.0.1][d4eebcff][ExtensionHostConnection] The client has reconnected.
+2023-10-31 19:14:42.751 [info] [127.0.0.1][d4eebcff][ExtensionHostConnection] The client has reconnected.
+2023-10-31 19:14:42.959 [info] [127.0.0.1][f426647d][ManagementConnection] The client has reconnected.
+2023-10-31 21:35:12.512 [info] [127.0.0.1][d4eebcff][ExtensionHostConnection] The client has reconnected.
+2023-10-31 21:35:12.770 [info] [127.0.0.1][f426647d][ManagementConnection] The client has reconnected.
+2023-10-31 21:35:24.255 [info] [127.0.0.1][f426647d][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-10-31 21:35:24.588 [info] [127.0.0.1][d4eebcff][ExtensionHostConnection] <4470> Extension Host Process exited with code: 0, signal: null.
