@@ -1,0 +1,18 @@
+2023-11-11 14:18:30.289 [info] 
+
+
+
+
+2023-11-11 14:18:30.315 [info] Extension host agent started.
+2023-11-11 14:18:30.421 [info] [127.0.0.1][b9c14b22][ManagementConnection] New connection established.
+2023-11-11 14:18:30.828 [info] [127.0.0.1][5728e55a][ExtensionHostConnection] New connection established.
+2023-11-11 14:18:30.868 [info] [127.0.0.1][5728e55a][ExtensionHostConnection] <510> Launched Extension Host Process.
+2023-11-11 14:25:22.675 [warning] No ptyHost heartbeat after 6 seconds
+2023-11-11 14:25:33.238 [warning] No ptyHost heartbeat after 6 seconds
+2023-11-12 13:39:01.752 [info] [127.0.0.1][b9c14b22][ManagementConnection] The client has reconnected.
+2023-11-12 13:39:02.087 [info] [127.0.0.1][5728e55a][ExtensionHostConnection] The client has reconnected.
+2023-11-12 15:44:23.626 [warning] No ptyHost heartbeat after 6 seconds
+2023-11-12 15:48:54.921 [info] [127.0.0.1][b9c14b22][ManagementConnection] The client has reconnected.
+2023-11-12 15:48:55.185 [info] [127.0.0.1][5728e55a][ExtensionHostConnection] The client has reconnected.
+2023-11-12 16:12:34.315 [info] [127.0.0.1][5728e55a][ExtensionHostConnection] <510> [0mGET /favicon.ico [33m404[0m 4.575 ms - 150[0m
+

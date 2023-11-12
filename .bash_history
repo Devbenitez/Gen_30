@@ -611,3 +611,28 @@ rm -rf Clase 3
 tree
 cd ..
 code .
+cd ..
+tree
+mkdir ./Gen_30/Maquetado/Clase1
+mkdir ./Gen_30/Maquetado/Clase2
+mkdir ./Gen_30/Maquetado/Clase3
+tree
+ls -al
+touch ./Gen_30/Maquetado/Clase1/index.html
+tree
+touch ./Gen_30/Maquetado/practicas/practica spotify/index.html
+tree
+git init
+git add -- all
+git add --all
+git status
+git commit -m "clase1"
+git branch -M main
+git remote add origin git@github.com:Devbenitez/Gen_30.git
+git push -u origin main
+git status
+clear
+tree
+mkdir ./Gen_30/Maquetado/Clase4/css
+touch ./Gen_30/Maquetado/Clase4/css/styles.css
+touch ./Gen_30/Maquetado/Clase4/index.html
